@@ -1,0 +1,40 @@
+
+C
+#
+__dummy"
+__dummy_idJfeature_repo
+©âÏÔ¸ûÄñ©âÏÔ¸ûÄñ
+m
+O
+customer+Customer who starts a financial transaction"nameOrigJfeature_repo
+ÈçÏÔ üÈçÏÔ ü1"$8f899585-675c-4b60-bebe-8180f1ea1ba3*¯õÏÔÈ¡Ô12“
+Î
+customer_transaction_featuresfeature_repocustomer"
+txn_count_so_far"
+total_sent_so_far"
+avg_amount_so_far"
+last_txn_amount"
+hours_since_last_txn"
+balance_mismatch2€ç„:­event_timestampZ)'../../data/transaction_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢transaction_feature_source’ÇçÏÔØç©Ó"ÈçÏÔà÷Ä@R<Historical customer transaction features for fraud detectionb
+nameOrig’latest@
+ÈçÏÔ ü¯õÏÔÈ¡Ô1
+€È¬€¾ë­
+€È¬€¾ë­0RÏ
+Ì
+,feast.infra.online_stores.sqlite.SqliteTable"›
+mC:\Users\MSI\Desktop\Python\DevLab\week8\feature_store_project\feature_repo\feature_repo\data\online_store.db*feature_repo_customer_transaction_featuresb¼event_timestampZ)'../../data/transaction_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢transaction_feature_sourceªfeature_repo’ÇçÏÔØç©Ó"ÈçÏÔà÷ÄŠ.
+
+feature_repo
+©âÏÔÀ‹Š¦ÇçÏÔÀø£Ô’á
+Ş
+customer_transaction_featuresfeature_repo"feature_view*í
+Î
+customer_transaction_featuresfeature_repocustomer"
+txn_count_so_far"
+total_sent_so_far"
+avg_amount_so_far"
+last_txn_amount"
+hours_since_last_txn"
+balance_mismatch2€ç„:­event_timestampZ)'../../data/transaction_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢transaction_feature_source’ÇçÏÔØç©Ó"ÈçÏÔà÷Ä@R<Historical customer transaction features for fraud detectionb
+nameOrig’latest
+ÈçÏÔ üÈçÏÔ ü2ÈçÏÔ üB$cd7bc22d-3da8-4374-99b0-c034d6ed05aa
